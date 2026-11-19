@@ -89,6 +89,8 @@ body {
 .intro-cont img{
     width:30%;
     border-radius:100%;
+    
+    box-shadow: 0px 8px 25px rgba(0, 0, 0, 0.905);
 }
 
 .intro-details h2,
@@ -182,6 +184,8 @@ body {
     display: flex;
     align-content: center;
     justify-self:center;
+
+    box-shadow: 0px 8px 25px rgba(0, 0, 0, 0.905);
 }
 
 .about-details p{
