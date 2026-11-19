@@ -10,6 +10,8 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     </head>
 
     <body>
@@ -124,20 +126,26 @@
             
             <div class="foot-cont">
                 <div>
-                    <p>akhil</p>
+                    <a href="index.html">akhil</a>
                 </div>
 
-                <div>
-                    <a href="#">about</a>
-                    <a href="#">projects</a>
-                    <a href="#">contact</a>
+                <div class="foot-nav">
+                    <a href="#about-sec" onclick="document.getElementById('project-sec').scrollIntoView({behavior: 'smooth'})">about</a>
+                    <a href="#project-sec" onclick="document.getElementById('project-sec').scrollIntoView({behavior: 'smooth'})">projects</a>
+                    <a href="#contact" onclick="document.getElementById('project-sec').scrollIntoView({behavior: 'smooth'})">contact</a>
                 </div>
 
                 <div class="socials">
-                    <i class="fa-brands fa-instagram"></i>
-                    <i class="fa-brands fa-x-twitter"></i>
-                    <i class="fa-brands fa-square-linkedin"></i>
-                    <i class="fa-brands fa-facebook"></i>
+
+                    <div>
+                        <i href="https://www.instagram.com" class="fa-brands fa-instagram"></i>
+                        <i href="https://x.com" class="fa-brands fa-x-twitter"></i>
+                    </div>
+                    
+                    <div>
+                        <i href="https://in.linkedin.com" class="fa-brands fa-linkedin"></i>
+                        <i href="https://www.facebook.com" class="fa-brands fa-facebook"></i>
+                    </div>
                 </div>
             </div>
 

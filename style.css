@@ -163,7 +163,7 @@ body {
 }
 
 .about{
-    padding-top:100px;
+    padding-top:80px;
     padding-bottom:100px;
 }
 
@@ -299,4 +299,43 @@ body {
 
 .socials i{
     color:white;
+}
+
+
+.foot-cont{
+    padding-top:40px;
+}
+
+.foot-cont a{
+    font-size:30px;
+    text-decoration: none;
+    color:white;
+    font-family:"Instrument Serif", serif;
+    font-style:italic;
+}
+
+.foot-nav{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.foot-nav a{
+    font-size:18px;
+    text-decoration:none;
+    color:white;
+    font-family:"Instrument Serif";
+    font-style:italic;
+
+}
+
+.foot-nav a:hover{
+    text-decoration: underline;
+    transition: 0.3s ease-in-out;
+}
+
+.socials i{
+    margin:8px 8px;
+    font-size:25px;
+    cursor:pointer;
 }
