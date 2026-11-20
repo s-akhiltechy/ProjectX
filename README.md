@@ -1,24 +1,45 @@
-## ProjectX
+
+# ProjectX
 
 **Second Version of my Portfolio**
 
-This is just my personal portfolio just to showcase my graphic design skills (which I enjoy the most doing).
-I just want to make this site very simple and clean.
+This is my personal portfolio website, mainly made to showcase my graphic design works. Designing is something I enjoy doing the most, so I wanted to make a simple website where I can show my works.I tried to keep the design clean and simple without adding too many things. This is a new version, a new experiment to make a minimalistic website and I absolutely loved the way it turned out.
 
 ## Technologies Used
 
 - HTML
 - CSS
 
+# Sections
+
+- Home Page
+
+![NASearch Preview](images/preview1.png)
+
+- About Section
+
+![NASearch Preview](images/preview2.png)
+
+- Project Section
+
+![NASearch Preview](images/preview3.png)
+
+- Contact Section
+
+![NASearch Preview](images/preview4.png)
+
 ## Features
 
-- Smooth scrolling and hover animations
+- Smooth scrolling
 - Simple navigation between sections
-- My Graphic Design works
+- My graphic design works
+- Social media links
 
 ## NOTE:
 
-The social media icons only lead to the respective socials not to my private socials but in futre maybe i will change that.
-Since this is a public rep I given a dummy email as an example in this site.
+The social media icons currently take you to respective platforms and not to my personal accounts. Maybe I will connect my actual accounts in the future.
+
+Since this is a public repository, I have used a dummy email address as an example instead of my personal email.
+
 
 **AKHIL**
